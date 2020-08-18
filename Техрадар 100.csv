@@ -1,82 +1,82 @@
-name;ring;quadrant;isNew;description
-Java 8;Используется;Языки и фреймворки;ИСТИНА;Description
-Java 11;Используется;Языки и фреймворки;ИСТИНА;Description
-C++;Используется;Языки и фреймворки;ИСТИНА;Description
-C#;Используется;Языки и фреймворки;ИСТИНА;Description
-PL/SQL;Используется;Языки и фреймворки;ИСТИНА;Description
-Groovy;Используется;Языки и фреймворки;ИСТИНА;Description
-python 3.6;Используется;Языки и фреймворки;ИСТИНА;Description
-python 2.7;Используется;Языки и фреймворки;ИСТИНА;Description
-Kotlin;Используется;Языки и фреймворки;ИСТИНА;Description
-PHP 7/1;Используется;Языки и фреймворки;ИСТИНА;Description
-bash;Используется;Языки и фреймворки;ИСТИНА;Description
-QML;Используется;Языки и фреймворки;ИСТИНА;Description
-SAS 9.4;Используется;Платформы;ИСТИНА;Description
-SAP Netweaver;Используется;Платформы;ИСТИНА;Description
-1С;Используется;Платформы;ИСТИНА;Description
-MS Exchange;Используется;Платформы;ИСТИНА;Description
-MS File Storage;Используется;Платформы;ИСТИНА;Description
-MS Distributed File Storage;Используется;Платформы;ИСТИНА;Description
-Mongo DB 3.4;Используется;Инструменты разработки;ИСТИНА;Description
-PostgreSQL 10;Используется;Инструменты разработки;ИСТИНА;Description
-Elastic search 6.5;Используется;Инструменты разработки;ИСТИНА;Description
-MariaDB/Galera;Используется;Инструменты разработки;ИСТИНА;Description
-Redis;Используется;Инструменты разработки;ИСТИНА;Description
-MS SQL;Используется;Инструменты разработки;ИСТИНА;Description
-mysql;Используется;Инструменты разработки;ИСТИНА;Description
-Oracle 12.1;Используется;Инструменты разработки;ИСТИНА;Description
-SQL Anywhere 17;Используется;Инструменты разработки;ИСТИНА;Description
-Azure SQL;Используется;Инструменты разработки;ИСТИНА;Description
-Hazelcast;Используется;Инструменты разработки;ИСТИНА;Description
-Firebird 2.5;Используется;Инструменты разработки;ИСТИНА;Description
-MS IIS;Используется;Инструменты разработки;ИСТИНА;Description
-Apache HTTPd;Используется;Инструменты разработки;ИСТИНА;Description
-Apache Tomcat;Используется;Языки и фреймворки;ИСТИНА;Description
-Jboss EAP 7;Используется;Языки и фреймворки;ИСТИНА;Description
-Nginx;Используется;Языки и фреймворки;ИСТИНА;Description
-Ceph;Используется;Языки и фреймворки;ИСТИНА;Description
-ClusterFS;Используется;Языки и фреймворки;ИСТИНА;Description
-Kafka 2.2;Используется;Языки и фреймворки;ИСТИНА;Description
-RabbitMQ;Используется;Языки и фреймворки;ИСТИНА;Description
-ActiveMQ;Используется;Языки и фреймворки;ИСТИНА;Description
-MS Shapepoint;Используется;Языки и фреймворки;ИСТИНА;Description
-Borland C++;Используется;Языки и фреймворки;ИСТИНА;Description
-Visual C++;Используется;Языки и фреймворки;ИСТИНА;Description
-QT;Используется;Языки и фреймворки;ИСТИНА;Description
-Windows Presentation Foundation;Используется;Языки и фреймворки;ИСТИНА;Description
-qml;Используется;Языки и фреймворки;ИСТИНА;Description
-nana;Используется;Языки и фреймворки;ИСТИНА;Description
-Kotlin Spring;Используется;Языки и фреймворки;ИСТИНА;Description
-Hibernate;Используется;Языки и фреймворки;ИСТИНА;Description
-Thymeleaf;Используется;Языки и фреймворки;ИСТИНА;Description
-Velocity;Используется;Языки и фреймворки;ИСТИНА;Description
-JQuery;Используется;Языки и фреймворки;ИСТИНА;Description
-React JS;Используется;Языки и фреймворки;ИСТИНА;Description
-Angular JS;Используется;Языки и фреймворки;ИСТИНА;Description
-Backbone;Используется;Языки и фреймворки;ИСТИНА;Description
-MarionetJS;Используется;Языки и фреймворки;ИСТИНА;Description
-VueJS;Используется;Языки и фреймворки;ИСТИНА;Description
-ExtJS;Используется;Языки и фреймворки;ИСТИНА;Description
-Django;Используется;Языки и фреймворки;ИСТИНА;Description
-Flask;Используется;Языки и фреймворки;ИСТИНА;Description
-Symfony;Используется;Языки и фреймворки;ИСТИНА;Description
-ASP.Net;Используется;Языки и фреймворки;ИСТИНА;Description
-Atlassian User Interface;Используется;Языки и фреймворки;ИСТИНА;Description
-asyncio;Используется;Языки и фреймворки;ИСТИНА;Description
-aiohttp;Используется;Языки и фреймворки;ИСТИНА;Description
-SQLAlchemy;Используется;Языки и фреймворки;ИСТИНА;Description
-Spring;Используется;Языки и фреймворки;ИСТИНА;Description
-Spring Cloud;Используется;Языки и фреймворки;ИСТИНА;Description
-Spring Boot;Используется;Языки и фреймворки;ИСТИНА;Description
-Reactive;Используется;Языки и фреймворки;ИСТИНА;Description
-boost;Используется;Инструменты разработки;ИСТИНА;Description
-.Net Entity Framework;Используется;Языки и фреймворки;ИСТИНА;Description
-Toothpick;Используется;Инструменты разработки;ИСТИНА;Description
-Unity3D;Используется;Языки и фреймворки;ИСТИНА;Description
-SAP BO 4.2;Используется;Платформы;ИСТИНА;Description
-Ataccama 11.3;Используется;Платформы;ИСТИНА;Description
-ESE - JetBlue;Используется;Платформы;ИСТИНА;Description
-Keepalived;Используется;Платформы;ИСТИНА;Description
-MinIO;Используется;Платформы;ИСТИНА;Description
-SASS;Используется;Инструменты разработки;ИСТИНА;Description
-Canary builds;Оцениваем;Методы и технологии;ИСТИНА;Description
+name,ring,quadrant,isNew,description
+Java 8,Используется,Языки и фреймворки,ИСТИНА,Description
+Java 11,Используется,Языки и фреймворки,ИСТИНА,Description
+C++,Используется,Языки и фреймворки,ИСТИНА,Description
+C#,Используется,Языки и фреймворки,ИСТИНА,Description
+PL/SQL,Используется,Языки и фреймворки,ИСТИНА,Description
+Groovy,Используется,Языки и фреймворки,ИСТИНА,Description
+python 3.6,Используется,Языки и фреймворки,ИСТИНА,Description
+python 2.7,Используется,Языки и фреймворки,ИСТИНА,Description
+Kotlin,Используется,Языки и фреймворки,ИСТИНА,Description
+PHP 7/1,Используется,Языки и фреймворки,ИСТИНА,Description
+bash,Используется,Языки и фреймворки,ИСТИНА,Description
+QML,Используется,Языки и фреймворки,ИСТИНА,Description
+SAS 9.4,Используется,Платформы,ИСТИНА,Description
+SAP Netweaver,Используется,Платформы,ИСТИНА,Description
+1С,Используется,Платформы,ИСТИНА,Description
+MS Exchange,Используется,Платформы,ИСТИНА,Description
+MS File Storage,Используется,Платформы,ИСТИНА,Description
+MS Distributed File Storage,Используется,Платформы,ИСТИНА,Description
+Mongo DB 3.4,Используется,Инструменты разработки,ИСТИНА,Description
+PostgreSQL 10,Используется,Инструменты разработки,ИСТИНА,Description
+Elastic search 6.5,Используется,Инструменты разработки,ИСТИНА,Description
+MariaDB/Galera,Используется,Инструменты разработки,ИСТИНА,Description
+Redis,Используется,Инструменты разработки,ИСТИНА,Description
+MS SQL,Используется,Инструменты разработки,ИСТИНА,Description
+mysql,Используется,Инструменты разработки,ИСТИНА,Description
+Oracle 12.1,Используется,Инструменты разработки,ИСТИНА,Description
+SQL Anywhere 17,Используется,Инструменты разработки,ИСТИНА,Description
+Azure SQL,Используется,Инструменты разработки,ИСТИНА,Description
+Hazelcast,Используется,Инструменты разработки,ИСТИНА,Description
+Firebird 2.5,Используется,Инструменты разработки,ИСТИНА,Description
+MS IIS,Используется,Инструменты разработки,ИСТИНА,Description
+Apache HTTPd,Используется,Инструменты разработки,ИСТИНА,Description
+Apache Tomcat,Используется,Языки и фреймворки,ИСТИНА,Description
+Jboss EAP 7,Используется,Языки и фреймворки,ИСТИНА,Description
+Nginx,Используется,Языки и фреймворки,ИСТИНА,Description
+Ceph,Используется,Языки и фреймворки,ИСТИНА,Description
+ClusterFS,Используется,Языки и фреймворки,ИСТИНА,Description
+Kafka 2.2,Используется,Языки и фреймворки,ИСТИНА,Description
+RabbitMQ,Используется,Языки и фреймворки,ИСТИНА,Description
+ActiveMQ,Используется,Языки и фреймворки,ИСТИНА,Description
+MS Shapepoint,Используется,Языки и фреймворки,ИСТИНА,Description
+Borland C++,Используется,Языки и фреймворки,ИСТИНА,Description
+Visual C++,Используется,Языки и фреймворки,ИСТИНА,Description
+QT,Используется,Языки и фреймворки,ИСТИНА,Description
+Windows Presentation Foundation,Используется,Языки и фреймворки,ИСТИНА,Description
+qml,Используется,Языки и фреймворки,ИСТИНА,Description
+nana,Используется,Языки и фреймворки,ИСТИНА,Description
+Kotlin Spring,Используется,Языки и фреймворки,ИСТИНА,Description
+Hibernate,Используется,Языки и фреймворки,ИСТИНА,Description
+Thymeleaf,Используется,Языки и фреймворки,ИСТИНА,Description
+Velocity,Используется,Языки и фреймворки,ИСТИНА,Description
+JQuery,Используется,Языки и фреймворки,ИСТИНА,Description
+React JS,Используется,Языки и фреймворки,ИСТИНА,Description
+Angular JS,Используется,Языки и фреймворки,ИСТИНА,Description
+Backbone,Используется,Языки и фреймворки,ИСТИНА,Description
+MarionetJS,Используется,Языки и фреймворки,ИСТИНА,Description
+VueJS,Используется,Языки и фреймворки,ИСТИНА,Description
+ExtJS,Используется,Языки и фреймворки,ИСТИНА,Description
+Django,Используется,Языки и фреймворки,ИСТИНА,Description
+Flask,Используется,Языки и фреймворки,ИСТИНА,Description
+Symfony,Используется,Языки и фреймворки,ИСТИНА,Description
+ASP.Net,Используется,Языки и фреймворки,ИСТИНА,Description
+Atlassian User Interface,Используется,Языки и фреймворки,ИСТИНА,Description
+asyncio,Используется,Языки и фреймворки,ИСТИНА,Description
+aiohttp,Используется,Языки и фреймворки,ИСТИНА,Description
+SQLAlchemy,Используется,Языки и фреймворки,ИСТИНА,Description
+Spring,Используется,Языки и фреймворки,ИСТИНА,Description
+Spring Cloud,Используется,Языки и фреймворки,ИСТИНА,Description
+Spring Boot,Используется,Языки и фреймворки,ИСТИНА,Description
+Reactive,Используется,Языки и фреймворки,ИСТИНА,Description
+boost,Используется,Инструменты разработки,ИСТИНА,Description
+.Net Entity Framework,Используется,Языки и фреймворки,ИСТИНА,Description
+Toothpick,Используется,Инструменты разработки,ИСТИНА,Description
+Unity3D,Используется,Языки и фреймворки,ИСТИНА,Description
+SAP BO 4.2,Используется,Платформы,ИСТИНА,Description
+Ataccama 11.3,Используется,Платформы,ИСТИНА,Description
+ESE - JetBlue,Используется,Платформы,ИСТИНА,Description
+Keepalived,Используется,Платформы,ИСТИНА,Description
+MinIO,Используется,Платформы,ИСТИНА,Description
+SASS,Используется,Инструменты разработки,ИСТИНА,Description
+Canary builds,Оцениваем,Методы и технологии,ИСТИНА,Description
