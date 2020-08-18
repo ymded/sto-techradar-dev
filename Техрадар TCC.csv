@@ -1,0 +1,82 @@
+name,ring,quadrant,isNew,description
+Java 8,Используется,Языки и фреймворки,TRUE,Description
+Java 11,Используется,Языки и фреймворки,TRUE,Description
+C++,Используется,Языки и фреймворки,TRUE,Description
+C#,Используется,Языки и фреймворки,TRUE,Description
+PL/SQL,Используется,Языки и фреймворки,TRUE,Description
+Groovy,Используется,Языки и фреймворки,TRUE,Description
+python 3.6,Используется,Языки и фреймворки,TRUE,Description
+python 2.7,Используется,Языки и фреймворки,TRUE,Description
+Kotlin,Используется,Языки и фреймворки,TRUE,Description
+PHP 7/1,Используется,Языки и фреймворки,TRUE,Description
+bash,Используется,Языки и фреймворки,TRUE,Description
+QML,Используется,Языки и фреймворки,TRUE,Description
+SAS 9.4,Используется,Платформы,TRUE,Description
+SAP Netweaver,Используется,Платформы,TRUE,Description
+1С,Используется,Платформы,TRUE,Description
+MS Exchange,Используется,Платформы,TRUE,Description
+MS File Storage,Используется,Платформы,TRUE,Description
+MS Distributed File Storage,Используется,Платформы,TRUE,Description
+Mongo DB 3.4,Используется,Инструменты разработки,TRUE,Description
+PostgreSQL 10,Используется,Инструменты разработки,TRUE,Description
+Elastic search 6.5,Используется,Инструменты разработки,TRUE,Description
+MariaDB/Galera,Используется,Инструменты разработки,TRUE,Description
+Redis,Используется,Инструменты разработки,TRUE,Description
+MS SQL,Используется,Инструменты разработки,TRUE,Description
+mysql,Используется,Инструменты разработки,TRUE,Description
+Oracle 12.1,Используется,Инструменты разработки,TRUE,Description
+SQL Anywhere 17,Используется,Инструменты разработки,TRUE,Description
+Azure SQL,Используется,Инструменты разработки,TRUE,Description
+Hazelcast,Используется,Инструменты разработки,TRUE,Description
+Firebird 2.5,Используется,Инструменты разработки,TRUE,Description
+MS IIS,Используется,Инструменты разработки,TRUE,Description
+Apache HTTPd,Используется,Инструменты разработки,TRUE,Description
+Apache Tomcat,Используется,Языки и фреймворки,TRUE,Description
+Jboss EAP 7,Используется,Языки и фреймворки,TRUE,Description
+Nginx,Используется,Языки и фреймворки,TRUE,Description
+Ceph,Используется,Языки и фреймворки,TRUE,Description
+ClusterFS,Используется,Языки и фреймворки,TRUE,Description
+Kafka 2.2,Используется,Языки и фреймворки,TRUE,Description
+RabbitMQ,Используется,Языки и фреймворки,TRUE,Description
+ActiveMQ,Используется,Языки и фреймворки,TRUE,Description
+MS Shapepoint,Используется,Языки и фреймворки,TRUE,Description
+Borland C++,Используется,Языки и фреймворки,TRUE,Description
+Visual C++,Используется,Языки и фреймворки,TRUE,Description
+QT,Используется,Языки и фреймворки,TRUE,Description
+Windows Presentation Foundation,Используется,Языки и фреймворки,TRUE,Description
+qml,Используется,Языки и фреймворки,TRUE,Description
+nana,Используется,Языки и фреймворки,TRUE,Description
+Kotlin Spring,Используется,Языки и фреймворки,TRUE,Description
+Hibernate,Используется,Языки и фреймворки,TRUE,Description
+Thymeleaf,Используется,Языки и фреймворки,TRUE,Description
+Velocity,Используется,Языки и фреймворки,TRUE,Description
+JQuery,Используется,Языки и фреймворки,TRUE,Description
+React JS,Используется,Языки и фреймворки,TRUE,Description
+Angular JS,Используется,Языки и фреймворки,TRUE,Description
+Backbone,Используется,Языки и фреймворки,TRUE,Description
+MarionetJS,Используется,Языки и фреймворки,TRUE,Description
+VueJS,Используется,Языки и фреймворки,TRUE,Description
+ExtJS,Используется,Языки и фреймворки,TRUE,Description
+Django,Используется,Языки и фреймворки,TRUE,Description
+Flask,Используется,Языки и фреймворки,TRUE,Description
+Symfony,Используется,Языки и фреймворки,TRUE,Description
+ASP.Net,Используется,Языки и фреймворки,TRUE,Description
+Atlassian User Interface,Используется,Языки и фреймворки,TRUE,Description
+asyncio,Используется,Языки и фреймворки,TRUE,Description
+aiohttp,Используется,Языки и фреймворки,TRUE,Description
+SQLAlchemy,Используется,Языки и фреймворки,TRUE,Description
+Spring,Используется,Языки и фреймворки,TRUE,Description
+Spring Cloud,Используется,Языки и фреймворки,TRUE,Description
+Spring Boot,Используется,Языки и фреймворки,TRUE,Description
+Reactive,Используется,Языки и фреймворки,TRUE,Description
+boost,Используется,Инструменты разработки,TRUE,Description
+.Net Entity Framework,Используется,Языки и фреймворки,TRUE,Description
+Toothpick,Используется,Инструменты разработки,TRUE,Description
+Unity3D,Используется,Языки и фреймворки,TRUE,Description
+SAP BO 4.2,Используется,Платформы,TRUE,Description
+Ataccama 11.3,Используется,Платформы,TRUE,Description
+ESE - JetBlue,Используется,Платформы,TRUE,Description
+Keepalived,Используется,Платформы,TRUE,Description
+MinIO,Используется,Платформы,TRUE,Description
+SASS,Используется,Инструменты разработки,TRUE,Description
+Canary builds,Оцениваем,Методы и технологии,TRUE,Description
