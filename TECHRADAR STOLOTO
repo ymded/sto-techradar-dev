@@ -1,0 +1,82 @@
+name,ring,quadrant,isNew,description
+Java 8,ADOPT,Languages & Frameworks,TRUE,Invest
+Java 11,ADOPT,Languages & Frameworks,TRUE,Invest
+C++,ASSESS,Languages & Frameworks,TRUE,Disinvest
+C#,ADOPT,Languages & Frameworks,TRUE,Invest
+PL/SQL,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Groovy,ADOPT,Languages & Frameworks,TRUE,Invest
+python 3.6,ADOPT,Languages & Frameworks,TRUE,Invest
+python 2.7,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Kotlin,ASSESS,Languages & Frameworks,TRUE,Disinvest
+PHP 7/1,HOLD,Languages & Frameworks,TRUE,Decommission
+bash,ASSESS,Languages & Frameworks,TRUE,Disinvest
+QML,TRIAL,Languages & Frameworks,TRUE,Experimental
+SAS 9.4,TRIAL,Platforms,TRUE,Experimental
+SAP Netweaver,ASSESS,Platforms,TRUE,Disinvest
+1С,ADOPT,Platforms,TRUE,Invest
+MS Exchange,ADOPT,Platforms,TRUE,Invest
+MS File Storage,ASSESS,Platforms,TRUE,Disinvest
+MS Distributed File Storage,ASSESS,Platforms,TRUE,Disinvest
+Mongo DB 3.4,ADOPT,Tools,TRUE,Invest
+PostgreSQL 10,ADOPT,Tools,TRUE,Invest
+Elastic search 6.5,ADOPT,Tools,TRUE,Invest
+MariaDB/Galera,ADOPT,Tools,TRUE,Invest
+Redis,ADOPT,Tools,TRUE,Invest
+MS SQL,ASSESS,Tools,TRUE,Disinvest
+mysql,ASSESS,Tools,TRUE,Disinvest
+Oracle 12.1,ASSESS,Tools,TRUE,Disinvest
+SQL Anywhere 17,ASSESS,Tools,TRUE,Disinvest
+Azure SQL,ASSESS,Tools,TRUE,Disinvest
+Hazelcast,ADOPT,Tools,TRUE,Invest
+Firebird 2.5,ADOPT,Tools,TRUE,Invest
+MS IIS,ASSESS,Tools,TRUE,Disinvest
+Apache HTTPd,ADOPT,Tools,TRUE,Invest
+Apache Tomcat,ADOPT,Languages & Frameworks,TRUE,Invest
+Jboss EAP 7,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Nginx,ADOPT,Languages & Frameworks,TRUE,Invest
+Ceph,ADOPT,Languages & Frameworks,TRUE,Invest
+ClusterFS,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Kafka 2.2,ADOPT,Languages & Frameworks,TRUE,Invest
+RabbitMQ,ADOPT,Languages & Frameworks,TRUE,Invest
+ActiveMQ,ASSESS,Languages & Frameworks,TRUE,Disinvest
+MS Shapepoint,ADOPT,Languages & Frameworks,TRUE,Invest
+Borland C++,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Visual C++,ADOPT,Languages & Frameworks,TRUE,Invest
+QT,ADOPT,Languages & Frameworks,TRUE,Invest
+Windows Presentation Foundation,ASSESS,Languages & Frameworks,TRUE,Disinvest
+qml,ASSESS,Languages & Frameworks,TRUE,Disinvest
+nana,ADOPT,Languages & Frameworks,TRUE,Invest
+Kotlin Spring,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Hibernate,ADOPT,Languages & Frameworks,TRUE,Invest
+Thymeleaf,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Velocity,ADOPT,Languages & Frameworks,TRUE,Invest
+JQuery,ADOPT,Languages & Frameworks,TRUE,Invest
+React JS,ADOPT,Languages & Frameworks,TRUE,Invest
+Angular JS,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Backbone,ASSESS,Languages & Frameworks,TRUE,Disinvest
+MarionetJS,ASSESS,Languages & Frameworks,TRUE,Disinvest
+VueJS,ADOPT,Languages & Frameworks,TRUE,Invest
+ExtJS,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Django,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Flask,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Symfony,ASSESS,Languages & Frameworks,TRUE,Disinvest
+ASP.Net,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Atlassian User Interface,ASSESS,Languages & Frameworks,TRUE,Disinvest
+asyncio,ASSESS,Languages & Frameworks,TRUE,Disinvest
+aiohttp,ASSESS,Languages & Frameworks,TRUE,Disinvest
+SQLAlchemy,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Spring,ADOPT,Languages & Frameworks,TRUE,Invest
+Spring Cloud,ADOPT,Languages & Frameworks,TRUE,Invest
+Spring Boot,ADOPT,Languages & Frameworks,TRUE,Invest
+Reactive,TRIAL,Languages & Frameworks,TRUE,Experimental
+boost,ADOPT,Tools,TRUE,Invest
+.Net Entity Framework,ADOPT,Languages & Frameworks,TRUE,Invest
+Toothpick,ASSESS,Tools,TRUE,Disinvest
+Unity3D,TRIAL,Languages & Frameworks,TRUE,Experimental
+SAP BO 4.2,ADOPT,Platforms,TRUE,Invest
+Ataccama 11.3,ADOPT,Platforms,TRUE,Invest
+ESE - JetBlue,ASSESS,Platforms,TRUE,Disinvest
+Keepalived,ADOPT,Platforms,TRUE,Invest
+MinIO,ADOPT,Platforms,TRUE,Invest
+SASS,ADOPT,Tools,TRUE,Invest
+Canary builds,TRIAL,Techniques,TRUE,Experimental
