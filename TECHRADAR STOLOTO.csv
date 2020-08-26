@@ -31,7 +31,7 @@ Hazelcast,ADOPT,Tools,TRUE,Invest
 Firebird 2.5,ADOPT,Tools,TRUE,Invest
 MS IIS,ASSESS,Tools,TRUE,Disinvest
 Apache HTTPd,ADOPT,Tools,TRUE,Invest
-Apache Tomcat,ADOPT,Tools & Frameworks,TRUE,Invest
+Apache Tomcat,ADOPT,Tools,TRUE,Invest
 Jboss EAP 7,ASSESS,Languages & Frameworks,TRUE,Disinvest
 Nginx,ADOPT,Tools,TRUE,Invest
 Ceph,ADOPT,Languages & Frameworks,TRUE,Invest
