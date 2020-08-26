@@ -39,7 +39,7 @@ ClusterFS,ASSESS,Languages & Frameworks,TRUE,Disinvest
 Kafka 2.2,ADOPT,Tools,TRUE,Invest
 RabbitMQ,ADOPT,Tools,TRUE,Invest
 ActiveMQ,ASSESS,Tools,TRUE,Disinvest
-MS Shapepoint,ADOPT,Languages & Frameworks,TRUE,Invest
+MS Shapepoint,ADOPT,Tools,TRUE,Invest
 Borland C++,ASSESS,Languages & Frameworks,TRUE,Disinvest
 Visual C++,ADOPT,Languages & Frameworks,TRUE,Invest
 QT,ADOPT,Languages & Frameworks,TRUE,Invest
