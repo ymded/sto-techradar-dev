@@ -31,14 +31,14 @@ Hazelcast,ADOPT,Tools,TRUE,Invest
 Firebird 2.5,ADOPT,Tools,TRUE,Invest
 MS IIS,ASSESS,Tools,TRUE,Disinvest
 Apache HTTPd,ADOPT,Tools,TRUE,Invest
-Apache Tomcat,ADOPT,Languages & Frameworks,TRUE,Invest
+Apache Tomcat,ADOPT,Tools & Frameworks,TRUE,Invest
 Jboss EAP 7,ASSESS,Languages & Frameworks,TRUE,Disinvest
-Nginx,ADOPT,Languages & Frameworks,TRUE,Invest
+Nginx,ADOPT,Tools,TRUE,Invest
 Ceph,ADOPT,Languages & Frameworks,TRUE,Invest
 ClusterFS,ASSESS,Languages & Frameworks,TRUE,Disinvest
-Kafka 2.2,ADOPT,Languages & Frameworks,TRUE,Invest
-RabbitMQ,ADOPT,Languages & Frameworks,TRUE,Invest
-ActiveMQ,ASSESS,Languages & Frameworks,TRUE,Disinvest
+Kafka 2.2,ADOPT,Tools,TRUE,Invest
+RabbitMQ,ADOPT,Tools,TRUE,Invest
+ActiveMQ,ASSESS,Tools,TRUE,Disinvest
 MS Shapepoint,ADOPT,Languages & Frameworks,TRUE,Invest
 Borland C++,ASSESS,Languages & Frameworks,TRUE,Disinvest
 Visual C++,ADOPT,Languages & Frameworks,TRUE,Invest
